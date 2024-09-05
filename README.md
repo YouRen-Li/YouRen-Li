@@ -16,7 +16,7 @@
 
 # 🇬🇧 English
 
-### Hi there, I'm YouRenJun（little YouR）. 👋
+### Hi there, I'm YouR（little YouR）. 👋
 
 
 
