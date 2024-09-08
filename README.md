@@ -5,6 +5,7 @@
 
 
 我是一名来自中国的前端开发工程师，你可以叫我友人或者小友。
+
 我目前在寻找自己的梦想。
 
 - 🔭我目前正在学习arkTs语言
@@ -21,6 +22,7 @@
 
 
 ​	I am a front-end development engineer from China, you can call me YouR or little YouR. 
+
   I am looking for my dream.
 
 
