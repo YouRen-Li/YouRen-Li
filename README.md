@@ -1,6 +1,6 @@
 # 🇨🇳 简体中文
 
-### 大家好，我是观星👋
+### 大家好，我是ViewStar👋
 
 我是一名来自中国的前端开发工程师。
 
@@ -13,7 +13,7 @@
 
 # 🇬🇧 English
 
-### Hi there, I'm ViewStar. 👋
+### Hi there, I'm ViewStar👋
 
 I am a front-end development engineer from China. 
 
