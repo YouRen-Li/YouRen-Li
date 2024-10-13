@@ -1,8 +1,8 @@
 # 🇨🇳 简体中文
 
-### 大家好，我是YouR(小友)。👋
+### 大家好，我是观星👋
 
-我是一名来自中国的前端开发工程师，你可以叫我友人或者小友。
+我是一名来自中国的前端开发工程师。
 
 我目前在追求自己的梦想。
 
@@ -13,11 +13,9 @@
 
 # 🇬🇧 English
 
-### Hi there, I'm YouR (little YouR). 👋
+### Hi there, I'm ViewStar. 👋
 
-I am a front-end development engineer from China. You can call me YouR or little YouR. 
-
-My name is derived from the Chinese name '友人' or '小友'.
+I am a front-end development engineer from China. 
 
 I am currently pursuing my dreams.
 
