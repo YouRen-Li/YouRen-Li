@@ -13,7 +13,7 @@
 
 # 🇬🇧 English
 
-### Hi there, I'm ViewStar👋
+### Hi there, I'm Vistar👋
 
 I am a front-end development engineer from China. 
 
