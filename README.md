@@ -1,6 +1,6 @@
 # 🇨🇳 简体中文
 
-### 你好，我是Vistar👋
+### 你好，我是友人👋
 
 我是一名来自中国的前端开发工程师。
 
@@ -11,7 +11,7 @@
 
 # 🇬🇧 English
 
-### Hi there, I'm Vistar👋
+### Hi there, I'm friend👋
 
 I am a front-end development engineer from China. 
 
