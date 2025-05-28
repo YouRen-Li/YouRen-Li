@@ -78,33 +78,6 @@ console.log("Welcome to my digital world! 🌍");
 
 ---
 
-## 🎯 当前目标 | Current Goals
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🎯 2024 Goals] --> B[📚 Master Java]
-    A --> C[📱 Flutter Expert]
-    A --> D[🌐 Full Stack Project]
-    A --> E[🤝 Open Source Contribution]
-    
-    B --> F[Spring Boot]
-    C --> G[State Management]
-    D --> H[Multi-platform App]
-    E --> I[Community Impact]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#ffeaa7
-```
-
-</div>
-
----
-
 ## 🌈 项目展示 | Featured Projects
 
 <div align="center">
