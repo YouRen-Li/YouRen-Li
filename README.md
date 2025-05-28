@@ -23,10 +23,10 @@ const viewstar = {
     currentFocus: "Java & Flutter",
     dream: "Full Stack Developer",
     hobbies: ["🎌 Anime", "🎮 Gaming", "😴 Sleeping", "🔍 Exploring"],
-    motto: "Code with passion, dream with purpose! ✨"
+    motto: "Those who believe in miracles are as remarkable as miracles themselves! ✨"
 };
 
-console.log("Welcome to my digital world! 🌍");
+console.log("Hello World! 🌍");
 ```
 
 ---
@@ -39,12 +39,13 @@ console.log("Welcome to my digital world! 🌍");
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![UniApp](https://img.shields.io/badge/UniApp-2B2B2B?style=for-the-badge&logo=dcloud&logoColor=white)
 
 ### 📱 移动开发
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![微信小程序](https://img.shields.io/badge/微信小程序-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 
 ### 🔧 后端学习中
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -53,7 +54,7 @@ console.log("Welcome to my digital world! 🌍");
 ### 🛠️ 工具 & 平台
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 </div>
 
