@@ -26,7 +26,7 @@ const viewstar = {
     motto: "Those who believe in miracles are as remarkable as miracles themselves! ✨"
 };
 
-console.log("Hello World! 🌍");
+console.log("Welcome to my digital world! 🌍");
 ```
 
 ---
