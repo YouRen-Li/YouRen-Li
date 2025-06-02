@@ -1,4 +1,4 @@
-# 🌟 ViewStarts's Digital Universe 🌟
+# 🌟 Li Jun's Digital Universe 🌟
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 ```javascript
 const viewStarts = {
-    name: "友人 ViewStarts",
+    name: "Li Jun",
     location: "🇨🇳 NanJing, China",
     role: "Frontend Developer",
     currentFocus: "Java & Flutter",
