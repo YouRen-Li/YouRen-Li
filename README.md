@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I'm+Li Jun+%F0%9F%9A%80;Frontend+Developer+%F0%9F%92%BB;Flutter+Enthusiast+%F0%9F%93%B1;Full+Stack+Dreamer+%E2%9C%A8)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I'm+Li+Jun+%F0%9F%9A%80;Frontend+Developer+%F0%9F%92%BB;Flutter+Enthusiast+%F0%9F%93%B1;Full+Stack+Dreamer+%E2%9C%A8)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=LiJunYoung&color=blueviolet&style=for-the-badge)](https://github.com/LiJunYoung)
 [![GitHub followers](https://img.shields.io/github/followers/LiJunYoung?style=for-the-badge&color=orange)](https://github.com/LiJunYoung)
