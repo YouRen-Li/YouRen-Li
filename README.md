@@ -1,12 +1,3 @@
-# 🌟 Li Jun的数字宇宙 🌟
-
-<div align="center">
-[[Profile Views](https://komarev.com/ghpvc/?username=LiJunYoung&color=blueviolet&style=for-the-badge)](https://github.com/LiJunYoung)
-[![GitHub followers](https://img.shields.io/github/followers/LiJunYoung?style=for-the-badge&color=orange)](https://github.com/LiJunYoung)
-[![GitHub stars](https://img.shields.io/github/stars/LiJunYoung?style=for-the-badge&color=yellow)](https://github.com/LiJunYoung)
-
-</div>
-
 ---
 
 ## 🎭 关于我 | About Me
