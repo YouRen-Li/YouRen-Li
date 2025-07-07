@@ -4,10 +4,10 @@
 
 ```javascript
 const LiJunYoung = {
-    name: "Li Jun",
+    name: "YouR",
     location: "🇨🇳 NanJing, China",
     role: "Frontend Developer",
-    currentFocus: "Java & Flutter",
+    currentFocus: "Node.js & Flutter",
     dream: "Full Stack Developer",
     hobbies: ["🎌 Anime", "🎮 Gaming", "😴 Sleeping", "🔍 Exploring"],
     motto: "Those who believe in miracles are as remarkable as miracles themselves! ✨",
