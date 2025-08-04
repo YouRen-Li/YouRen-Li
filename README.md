@@ -64,30 +64,6 @@ console.log("Hello World! 🌍");
 
 ---
 
-## 🌟 专长领域 | Expertise
-
-<div align="center">
-
-🎯 **前端开发** - Vue3生态系统，现代化Web应用开发  
-📱 **跨平台开发** - Flutter移动应用，UniApp小程序开发  
-🔥 **鸿蒙开发** - ArkTS原生应用开发  
-⚡ **全栈开发** - Node.js后端服务，NestJS企业级应用  
-
-</div>
-
----
-
-## 📫 联系我 | Contact Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YouRen-Li)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/43729664)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 "Those who believe in miracles are as remarkable as miracles themselves! ✨"
