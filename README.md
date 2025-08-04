@@ -42,7 +42,7 @@ console.log("Hello World! 🌍");
 ![微信小程序](https://img.shields.io/badge/微信小程序-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 
 ### 🔧 后端技术
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### 🛠️ 工具 & 平台
