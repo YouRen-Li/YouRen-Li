@@ -7,20 +7,29 @@ const LiJunYoung = {
     name: "YouR",
     location: "🇨🇳 NanJing, China",
     role: "Frontend Developer",
-    currentFocus: "Node.js & Flutter",
+    currentFocus: "Vue3 & Flutter & HarmonyOS",
     dream: "Full Stack Developer",
     hobbies: ["🎌 Anime", "🎮 Gaming", "😴 Sleeping", "🔍 Exploring"],
     motto: "Those who believe in miracles are as remarkable as miracles themselves! ✨",
     bilibili: "https://space.bilibili.com/43729664",
-    followers: 15,
-    following: 47,
-    repositories: 13,
-    stars: 35,
+    github: "https://github.com/YouRen-Li",
     status: "🤒 study"
 };
 
 console.log("Hello World! 🌍");
 ```
+
+---
+
+## 📊 GitHub 统计 | GitHub Stats
+
+<div align="center">
+
+![YouRen-Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouRen-Li&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouRen-Li&layout=compact&theme=radical)
+
+</div>
 
 ---
 
@@ -39,6 +48,7 @@ console.log("Hello World! 🌍");
 ### 📱 移动开发
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![ArkTS](https://img.shields.io/badge/ArkTS-0052CC?style=for-the-badge&logo=harmony&logoColor=white)
 ![微信小程序](https://img.shields.io/badge/微信小程序-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 
 ### 🔧 后端技术
@@ -49,5 +59,41 @@ console.log("Hello World! 🌍");
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+</div>
+
+---
+
+## 🌟 专长领域 | Expertise
+
+<div align="center">
+
+🎯 **前端开发** - Vue3生态系统，现代化Web应用开发  
+📱 **跨平台开发** - Flutter移动应用，UniApp小程序开发  
+🔥 **鸿蒙开发** - ArkTS原生应用开发  
+⚡ **全栈开发** - Node.js后端服务，NestJS企业级应用  
+
+</div>
+
+---
+
+## 📫 联系我 | Contact Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YouRen-Li)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/43729664)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Those who believe in miracles are as remarkable as miracles themselves! ✨"
+
+**感谢访问我的主页！欢迎Star⭐我的项目！**
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YouRen-Li.YouRen-Li)
 
 </div>
