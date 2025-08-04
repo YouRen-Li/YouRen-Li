@@ -19,7 +19,7 @@ const LiJunYoung = {
     status: "🤒 study"
 };
 
-console.log("Welcome to my digital world! 🌍");
+console.log("Hello World! 🌍");
 ```
 
 ---
@@ -41,9 +41,9 @@ console.log("Welcome to my digital world! 🌍");
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![微信小程序](https://img.shields.io/badge/微信小程序-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 
-### 🔧 后端学习中
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+### 🔧 后端技术
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### 🛠️ 工具 & 平台
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
