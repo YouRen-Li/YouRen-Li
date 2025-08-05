@@ -13,7 +13,7 @@ const LiJunYoung = {
     motto: "Those who believe in miracles are as remarkable as miracles themselves! ✨",
     bilibili: "https://space.bilibili.com/43729664",
     github: "https://github.com/YouRen-Li",
-    status: "🤒 study"
+    status: "🤒 Study"
 };
 
 console.log("Hello World! 🌍");
