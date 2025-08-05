@@ -21,18 +21,6 @@ console.log("Hello World! 🌍");
 
 ---
 
-## 📊 GitHub 统计 | GitHub Stats
-
-<div align="center">
-
-![YouRen-Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouRen-Li&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouRen-Li&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 🚀 技术栈 | Tech Stack
 
 <div align="center">
@@ -69,7 +57,5 @@ console.log("Hello World! 🌍");
 ### 💡 "Those who believe in miracles are as remarkable as miracles themselves! ✨"
 
 **感谢访问我的主页！欢迎Star⭐我的项目！**
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YouRen-Li.YouRen-Li)
 
 </div>
