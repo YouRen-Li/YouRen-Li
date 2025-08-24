@@ -54,8 +54,8 @@ console.log("Hello World! 🌍");
 
 <div align="center">
 
-### 💡 "Those who believe in miracles are as remarkable as miracles themselves! ✨"
+### 💡 "Thank you for coming to see me ✨"
 
-**感谢访问我的主页！欢迎Star⭐我的项目！**
+**谢谢你来看我!**
 
 </div>
